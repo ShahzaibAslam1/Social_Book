@@ -1,0 +1,44 @@
+.content{
+	margin-top: 10px;
+	
+}
+.left-sidebar{
+	position: sticky;
+	top: 60px;
+}
+.imp-link a, .shortcut-links a{
+	text-decoration: none;
+	display:block ;
+	margin-bottom: 20px;
+	align-items: center;
+	color: black;
+
+}
+.imp-link a img{
+	margin-right: 10px;
+}
+.imp-link a:last-child{
+	color: blue;
+}
+
+.imp-link{
+    border-bottom: 1px solid silver;
+}
+.imp-link img{
+	height: 30px;
+
+}
+
+.shortcut-links p{
+
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.shortcut-links img{
+    width: 40px;
+    height: 38px;
+    border-radius:10px ;
+    margin-right: 10px;
+}
